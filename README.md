@@ -64,8 +64,8 @@ $$ Profile views badge
 
 $$ GitHub stats based on your public repos
 
-![Overview](https://github.com/<USERNAME>/github-stats/blob/master/generated/overview.svg?raw=true)
-![Top languages](https://github.com/<USERNAME>/github-stats/blob/master/generated/languages.svg?raw=true)
+![Overview](https://github-readme-stats.vercel.app/api?username=<USERNAME>&theme=onedark&hide_border=true&show_icons=true&icon_color=<HEX COLOR>&include_all_commits=true&count_private=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=<USERNAME>&theme=onedark&hide_border=true&layout=compact&langs_count=10)
 ![Commit streak](https://streak-stats.demolab.com/?user=<USERNAME>)
 
 -->
